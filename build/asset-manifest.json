@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75fadd68.css",
+    "main.js": "/static/js/main.f482cac8.js",
+    "static/media/1_smFtFRlnwIp8e1IadO4j6g.png": "/static/media/1_smFtFRlnwIp8e1IadO4j6g.2540454c02c4cad7838f.png",
+    "static/media/hands.jpg": "/static/media/hands.92649a62b2e3f1c9eaba.jpg",
+    "static/media/ai-technology-microchip-background-digital-transformation-concept_937196-69.avif": "/static/media/ai-technology-microchip-background-digital-transformation-concept_937196-69.c10d51610a0a78952b7f.avif",
+    "index.html": "/index.html",
+    "main.75fadd68.css.map": "/static/css/main.75fadd68.css.map",
+    "main.f482cac8.js.map": "/static/js/main.f482cac8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75fadd68.css",
+    "static/js/main.f482cac8.js"
+  ]
+}
